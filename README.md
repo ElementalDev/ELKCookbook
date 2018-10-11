@@ -10,4 +10,4 @@ The tools within this cookbook are:
 
 - [x] Logstash - A store of all the commands and requests you configure it to store
 
-- [x] Kibana - Uses the log from logstash to show stats in a grapical way.
+- [x] Kibana - Uses the log from logstash to show stats in a graphical way.
